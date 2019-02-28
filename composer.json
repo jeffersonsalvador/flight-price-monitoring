@@ -6,5 +6,7 @@
             "email": "jefferson.costa@pdmfc.com"
         }
     ],
-    "require": {}
+    "require": {
+        "laravel/lumen-framework": "^5.7"
+    }
 }
