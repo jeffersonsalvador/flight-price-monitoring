@@ -1,0 +1,10 @@
+{
+    "name": "jeffersonsalvador/flight-price-monitoring",
+    "authors": [
+        {
+            "name": "Jefferson Costa",
+            "email": "jefferson.costa@pdmfc.com"
+        }
+    ],
+    "require": {}
+}
