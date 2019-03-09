@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeffersonsalvador/flight-price-monitoring/issues"
   },
-  "homepage": "https://github.com/jeffersonsalvador/flight-price-monitoring#readme"
+  "homepage": "https://github.com/jeffersonsalvador/flight-price-monitoring#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
